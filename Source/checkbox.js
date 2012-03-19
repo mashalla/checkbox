@@ -1,13 +1,14 @@
 /*
 ---
- script: checkbox.js
- description: ---
- license: MIT-style license
- authors:
- - Christian Merz
- requires:
- - core:1.4/Element.Event
- provides: [dialogCME]
+
+name: Accessible Checkbox
+
+license: MIT-style license.
+
+authors: Christian Merz
+
+provides: [AccessibleCheckbox]
+
 ...
 */
 
