@@ -1,5 +1,5 @@
 /*
- ---
+---
  script: checkbox.js
  description: ---
  license: MIT-style license
@@ -8,8 +8,8 @@
  requires:
  - core:1.4/Element.Event
  provides: [dialogCME]
- ...
- */
+...
+*/
 
 var AccessibleCheckbox = new Class({
 	Implements : [Options, Events],
